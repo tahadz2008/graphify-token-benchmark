@@ -1,0 +1,31 @@
+{
+  "nodes": 164,
+  "edges": 232,
+  "edge_confidence": {
+    "EXTRACTED": 221,
+    "INFERRED": 11
+  },
+  "edge_relation": {
+    "CONTAINS": 126,
+    "IMPORTS_FROM": 27,
+    "CALLS": 65,
+    "INDIRECT_CALL": 11,
+    "RATIONALE_FOR": 1,
+    "IMPORTS": 2
+  },
+  "edge_origin": {
+    "ast": 232
+  },
+  "corpus_files": 38,
+  "corpus_tokens": 19009,
+  "graph_json_tokens": 28730,
+  "avg_query_tokens": 2161.5,
+  "measured_reduction_x": 8.794355771455008,
+  "readme_claim_x": 71.5,
+  "query_outputs": [
+    98,
+    3113,
+    3792,
+    1643
+  ]
+}
